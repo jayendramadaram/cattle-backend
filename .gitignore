@@ -1,0 +1,7 @@
+venv
+env
+*__pycache__
+.env
+*tempCodeRunnerFile.py
+TEST
+*.json
